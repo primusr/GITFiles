@@ -1,0 +1,335 @@
+The Internet model consists of _______ layers.{
+~Three
+=Five
+~Seven
+~Eight
+}
+
+The process-to-process delivery of the entire message is the responsibility of the _______ layer.{
+~Network
+=Transport
+~Application
+~Physical
+}
+
+The _______ layer is the layer closest to the transmission medium.{
+=Physical
+~Data link
+~Network
+~Transport
+}
+
+Mail services are available to network users through the _______ layer.{
+~Data link
+~Physical
+~Transport
+=Application
+}
+
+As the data packet moves from the upper to the lower layers, headers are _______.{
+~Added
+=Removed
+~Rearranged
+~Modified
+}
+
+The _______ layer lies between the network layer and the application layer.{
+~Physical
+~Data link
+=Transport
+~None of the above
+}
+
+Layer 2 lies between the physical layer and the _______ layer.{
+=Network
+~Data link
+~Transport
+~None of the above
+}
+
+When data are transmitted from device A to device B, the header from A's layer 4 is read by B's _______ layer.{
+~Physical
+=Transport
+~Application
+~None of the above
+}
+
+The _______ layer changes bits into electromagnetic signals.{
+=Physical
+~Data link
+~Transport
+~None of the above
+}
+
+Which of the following is an application layer service?{
+~Remote log-in
+~File transfer and access
+~Mail service
+=All the above
+}
+
+Why was the OSI model developed?{
+~Manufacturers disliked the TCP/IP protocol suite.
+~The rate of data transfer was increasing exponentially
+=Standards were needed to allow any two systems to communicate
+~None of the above
+}
+
+The _______ model shows how the network functions of a computer ought to be organized.{
+~CCITT
+=OSI
+~ISO
+~ANSI
+}
+
+The physical layer is concerned with the movement of _______ over the physical medium.{
+~programs
+~dialogs
+~protocols
+=bits
+}
+
+The OSI model consists of _______ layers.{
+~three
+~five
+=seven
+~eight
+}
+
+In the OSI model, as a data packet moves from the lower to the upper layers, headers are _______.{
+~added
+=removed
+~rearranged
+~modified
+}
+
+In the OSI model, when data is transmitted from device A to device B, the header from A's layer 5 is read by B's _______ layer.{
+~physical
+~transport
+=session
+~presentation
+}
+
+In the OSI model, what is the main function of the transport layer?{
+~node-to-node delivery
+=process-to-process message delivery
+~synchronization
+~updating and maintenance of routing tables
+}
+
+In the OSI model, encryption and decryption are functions of the ________ layer.{
+~transport
+~session
+=presentation
+~application
+}
+
+When a host on network A sends a message to a host on network B, which address does the router look at?{
+~port
+=logical
+~physical
+~none of the above
+}
+
+To deliver a message to the correct application program running on a host, the _______ address must be consulted.{
+=port
+~IP
+~physical
+~none of the above
+}
+
+IPv6 has _______ -bit addresses.{
+~32
+~64
+=128
+~variable
+}
+
+ICMPv6 includes _______.{
+~IGMP
+~ARP
+~RARP
+=IGMP and ARP
+}
+
+The ______ layer is responsible for moving frames from one hop (node) to the next.{
+~physical
+=data link
+~transport
+~none of the above
+}
+
+The ______ layer adds a header to the packet coming from the upper layer that includes the logical addresses of the sender and receiver.{
+~physical
+~data link
+=network
+~none of the above
+}
+
+The_________ layer is responsible for the delivery of a message from one process to another.{
+~physical
+=transport
+~network
+~none of the above
+}
+
+The Internetworking Protocol (IP) is a ________ protocol.{
+~reliable
+~connection-oriented
+~both a and b
+=none of the above
+}
+
+_______ is a process-to-process protocol that adds only port addresses, checksum error control, and length information to the data from the upper layer.{
+~TCP
+=UDP
+~IP
+~none of the above
+}
+
+__________ provides full transport layer services to applications.{
+~TCP
+~UDP
+=ARP
+~none of the above
+}
+
+The ________ address, also known as the link address, is the address of a node as defined by its LAN or WAN.{
+~port
+=physical
+~logical
+~none of the above
+}
+
+Ethernet uses a ______ physical address that is imprinted on the network interface card (NIC).{
+~32-bit
+~64-bit
+=6-byte
+~none of the above
+}
+
+A port address in TCP/IP is ______ bits long.{
+~32
+~48
+=16
+~none of the above
+}
+
+The ____ created a model called the Open Systems Interconnection, which allows diverse systems to communicate.{
+~OSI
+=ISO
+~IEEE
+~none of the above
+}
+
+The seven-layer _____ model provides guidelines for the development of universally compatible networking protocols.{
+=OSI
+~ISO
+~IEEE
+~none of the above
+}
+
+The physical, data link, and network layers are the ______ support layers.{
+~user
+=network
+~both user and network
+~neither user nor network
+}
+
+The session, presentation, and application layers are the ____ support layers.{
+=user
+~network
+~both user and network
+~neither user nor network
+}
+
+The _______ layer links the network support layers and the user support layers.{
+=transport
+~network
+~data link
+~session
+}
+
+The _______ layer coordinates the functions required to transmit a bit stream over a physical medium.{
+~transport
+~network
+~data link
+=physical
+}
+
+The _______ layer is responsible for delivering data units from one station to the next without errors.{
+~transport
+~network
+=data link
+~physical
+}
+
+The ______ layer is responsible for the source-to-destination delivery of a packet across multiple network links.{
+~transport
+=network
+~data link
+~physical
+}
+
+The ________ layer is responsible for the process-to-process delivery of the entire message.{
+=transport
+~network
+~data link
+~physical
+}
+
+The ______ layer establishes, maintains, and synchronizes the interactions between communicating devices.{
+~transport
+~network
+=session
+~physical
+}
+
+The _______ layer ensures interoperability between communicating devices through transformation of data into a mutually agreed upon format.{
+~transport
+~network
+~data link
+=presentation
+}
+
+The _________ layer enables the users to access the network.{
+~transport
+=application
+~data link
+~physical
+}
+
+TCP/IP is a ______ hierarchical protocol suite developed ____ the OSI model.{
+~seven-layer; before
+=five-layer; before
+~six-layer; before
+~five-layer; after
+}
+
+The TCP/IP _______ layer is equivalent to the combined session, presentation, and application layers of the OSI model.{
+=application
+~network
+~data link
+~physical
+}
+
+The ________ address, also known as the link address, is the address of a node as defined by its LAN or WAN.{
+=physical
+~IP
+~port
+~specific
+}
+
+The ____ address uniquely defines a host on the Internet.{
+~physical
+=IP
+~port
+~specific
+}
+
+The_____ address identifies a process on a host.{
+~physical
+~IP
+=port
+~specific
+}

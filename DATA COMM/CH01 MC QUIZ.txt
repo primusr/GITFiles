@@ -1,0 +1,174 @@
+The _______ is the physical path over which a message travels.{
+~Protocol
+=Medium 
+~Signal
+~All the above
+}
+
+The information to be communicated in a data communications system is the _______.{
+~Medium
+~Protocol
+=Message
+~Transmission
+}
+
+Frequency of failure and network recovery time after a failure are measures of the _______ of a network.{
+~Performance 
+=Reliability
+~Security 
+~Feasibility
+}
+
+An unauthorized user is a network _______ issue.{
+~Performance
+~Reliability
+=Security
+~All the above
+}
+
+Which topology requires a central controller or hub?{
+~Mesh
+=Star
+~Bus
+~Ring
+}
+
+Which topology requires a multipoint connection?{
+~Mesh 
+~Star 
+=Bus
+~Ring
+}
+
+Communication between a computer and a keyboard involves ______________ transmission.{
+=simplex
+~half-duplex
+~full-duplex
+~automatic
+}
+
+A television broadcast is an example of _______ transmission.{
+=simplex 
+~half-duplex 
+~full-duplex
+~automatic
+}
+
+A _______ connection provides a dedicated link between two devices.{
+=point-to-point 
+~multipoint
+~primary
+~secondary
+}
+
+In a _______ connection, more than two devices can share a single link.{
+~point-to-point 
+=multipoint 
+~primary
+~secondary
+}
+
+In _______ transmission, the channel capacity is shared by both communicating devices at all times.{
+~simplex
+~half-duplex
+=full-duplex
+~half-simplex
+}
+
+In the original ARPANET, _______ were directly connected together.{
+~IMPs
+=host computers
+~networks
+~routers
+}
+
+This was the first network.{
+~CSNET
+~NSFNET
+~ANSNET
+=ARPANET
+}
+
+Which organization has authority over interstate and international commerce in the communications field?{
+~ITU-T
+~IEEE
+=FCC
+~ISOC
+}
+
+_______ are special-interest groups that quickly test, evaluate, and standardize new technologies.{
+=Forums
+~Regulatory agencies
+~ Standards organizations
+~All of the above
+}
+
+Which agency developed standards for physical connection interfaces and electronic signaling specifications?{
+=EIA
+~ITU-T
+~ANSI
+~ISO
+}
+
+_______ is the protocol suite for the current Internet.{
+=TCP/IP 
+~NCP
+~UNIX
+~ACM
+}
+
+_______ refers to the structure or format of the data, meaning the order in which they are presented.{
+~Semantics
+=Syntax 
+~Timing
+~All of the above
+}
+
+________ defines how a particular pattern to be interpreted, and what action is to be taken based on that interpretation.{
+=Semantics 
+~Syntax 
+~Timing
+~None of the above
+}
+
+_____ refers to two characteristics: when data should be sent and how fast it can be sent.{
+~Semantics
+~Syntax
+~Timing
+=none of the above
+}
+
+Data flow between two devices can occur in a _______ way.{
+~simplex 
+~half-duplex 
+=full-duplex
+~All of the above
+}
+
+In a ______ connection, two and only two devices are connected by a dedicated link.{
+~multipoint 
+=point-to-point 
+~multipoint and point-to-point
+~none of the above
+}
+
+In a ________ connection, three or more devices share a link.{
+~multipoint 
+~point-to-point
+=multipoint and point-to-point
+~none of the above 
+}
+
+______ refers to the physical or logical arrangement of a network.{
+~Data flow
+~Mode of operation
+=Topology 
+~None of the above
+}
+
+Devices may be arranged in a _____ topology.{
+~mesh 
+~ring 
+~bus
+=all of the above
+}
