@@ -1,0 +1,154 @@
+What initiated USA's desire to start researching and developing new technology?{
+~Launching of McDonalds 
+=Launching of Sputnik 
+~Launching of Apollo 11 
+~Launching of of nuclear weapons by Russia
+}
+
+What is ARAPANET more commonly known as today?{
+=Internet 
+~World wide web 
+~Orangutan 
+~IRC relay chat
+}
+
+Subnetworks on the Internet use a specific digital language called ___________.{
+~Binary
+~Hypertext
+~IM
+=A protocol
+}
+
+The URL ___________.{
+~Makes web pages appear like magic 
+~Takes someone to the wrong page 
+~Makes life very hard because it's a bunch of number and is very long 
+=Identifies the location of an electronic file
+}
+
+A part of the World Wide Web is __________.{
+~Your computer 
+~Web browsers 
+~Servers 
+=All of the above   
+
+}
+
+What do you need to access the World Wide Web?{ 
+~Firefox 
+=A web browser 
+~A computer 
+~Netscape Navigator
+}
+
+The Internet is really a combination of:{ 
+~Websites 
+~Cool pictures 
+=Subnetworks 
+~protocols
+}
+
+Who owns the Internet?{
+~Bill Gates 
+~Everyone 
+~No one 
+=Organizations, corporations, governments, schools, private citizens and service providers who all own pieces of it
+}
+
+The documents on the Internet are stored on ____________.{
+=Servers 
+~Floppy disks 
+~Memory sticks 
+~the internet
+}
+
+What is NOT a subnetwork of the internet? {
+~WWW 
+~email 
+=KFC 
+~IRC
+}
+
+What country launched ARAPA?{
+~Iceland 
+~Germany 
+~Russia 
+=United States
+}
+
+Who created the World Wide Web as we know it?{
+~Marc Anderseen 
+=Tim Berners Lee 
+~Apple Company 
+~Brad Pitt
+}
+
+Which college or university was one of the first four operating locations of ARAPANET?{
+~UCSD 
+~FIDM 
+=Stanford 
+~UCI
+}
+
+What does HTTP stand for?{
+~Hypertransfer Test Prototype 
+Hypertext Transfer Protocol 
+~Hot Tasty Tomato Pizza 
+~Hiptext Transper Proto
+}
+
+Pick term that best defines the following: A massive public broadcast medium. It is the largest and most popular subnetwork.{
+~Internet 
+=Web 
+~Computer 
+~Mouse
+}
+
+URL stands for:{ 
+~Ultra Really Loser 
+~Universal Re Locater 
+~Uniform Reading Locator 
+=Uniform Resource Locator
+}
+
+Which of the following is not a protocol?{ 
+~Instant messaging 
+=Cellphone 
+~Email 
+~Blogs
+}
+
+What is the difference of the web and the internet?{ 
+~The web is only for spiders, the internet is for humans
+=The internet connects computers together globally, the web is a way of accessing information over the internet 
+~The internet uses http protocol, the web is used for email and instant messanging 
+~The internet utilizes browsers to access web pages, the web connects networks to other networks
+}
+
+A web page is:{ 
+~An article for spiders 
+=An electronic document written in HTML 
+~An electronic computer program 
+~An article written in binary code  
+}
+
+When did the World Wide Web start?{
+~In the 1960's as a network connecting the computers of the US military 
+~It is quick In the 1970's after the arrival of the microprocessor 
+~After the 10th president died 
+=None of the above
+}
+
+What is a browser?{
+~a data compression method 
+~Enables you to create a kind of private chat room 
+~helps you look for things a software application 
+=used to locate and display Web pages
+}
+
+Which came first?{
+~DARPA 
+=ARPA 
+~IP/TCP 
+~AOL
+}

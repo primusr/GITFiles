@@ -1,0 +1,150 @@
+
+A style language, created by the W3C, that allows complete specifi cations of style for HTML documents.{
+=Cascading Style Sheets (CSS)
+~cookie
+~deprecated element
+~Document Type (doctype)
+}
+
+A small piece of text-based data that a Web page stores on the user’s machine. Cookies transfer small pieces of information with every request to the Web server.{
+~Cascading Style Sheets (CSS)
+=cookie
+~deprecated element
+~Document Type (doctype)
+}
+
+An element that the W3C has identified as obsolete.{
+~Cascading Style Sheets (CSS)
+~cookie
+=deprecated element
+~Document Type (doctype)
+}
+
+The section of an HTML document that specifi es the rules for the document language so the browser knows how to interpret the HTML code and display it properly.{
+~Cascading Style Sheets (CSS)
+~cookie
+~deprecated element
+=Document Type (doctype)
+}
+
+A set of rules that contains all the elements, attributes, and usage rules for the markup language you are using.{
+=Document Type Definition 
+~Extensible Hypertext Markup Language 
+~hypertext
+~Hypertext Markup Language 
+}
+
+XHTML is HTML 4.01 reformulated as an application of XML.{
+~Document Type Definition 
+=Extensible Hypertext Markup Language 
+~hypertext
+~Hypertext Markup Language 
+}
+
+A nonlinear way of organizing information. When you are using this, you can skip from one related topic to another, fi nd the information that interests you, and then return to your starting point or move on to another related topic
+of interest.{
+~Document Type Definition 
+~Extensible Hypertext Markup Language 
+=hypertext
+~Hypertext Markup Language 
+}
+
+The markup language that defines the structure and display properties of a Web page. The HTML code is interpreted by the browser to create the displayed results.{ 
+~Document Type Definition 
+~Extensible Hypertext Markup Language 
+~hypertext
+=Hypertext Markup Language 
+}
+
+A structured language that lets you identify common elements of a document such as headings, paragraphs, and lists.{
+=markup language
+~metadata
+~Multipurpose Internet Mail Extensions
+~rendering engine
+}
+
+Information about the document itself, such as how to present the document, or what other documents are related to the
+current one, such as style sheets.{
+~markup language
+=metadata
+~Multipurpose Internet Mail Extensions
+~rendering engine
+}
+
+Originally a standard for e-mail, defines content types for the Web. It determines the type of document presented in an HTML file.{
+~markup language
+~metadata
+=Multipurpose Internet Mail Extensions
+~rendering engine
+}
+
+A program contained in every browser that interprets the markup tags in an HTML fi le and displays the
+results in the browser.{
+~markup language
+~metadata
+~Multipurpose Internet Mail Extensions
+=rendering engine
+}
+
+The container element for all other elements in the document.{ 
+=root element
+~single-source
+~Standard Generalized Markup Language 
+~style sheet
+}
+
+To create content that can serve multiple purposes and be distributed to diff erent users or devices.{ 
+~root element
+=single-source
+~Standard Generalized Markup Language 
+~style sheet
+}
+
+A standard system for specifying document structure using markup tags.{ 
+~root element
+~single-source
+=Standard Generalized Markup Language 
+~style sheet
+}
+
+A set of style rules that describes a document’s display characteristics.{ 
+~root element
+~single-source
+~Standard Generalized Markup Language 
+=style sheet
+} 
+
+Markup code that conforms to the usage rules of the W3C.{
+=valid code
+~validator
+~Web page
+~well-formed document
+}
+
+A software program that checks an HTML document for syntactical errors.{
+~valid code
+=validator
+~Web page
+~well-formed document
+}
+
+A text document that is interpreted and displayed by Web browser software.{
+~valid code
+~validator
+=Web page
+~well-formed document
+}
+
+A syntactically correct XML or XHTML file.{
+~valid code
+~validator
+~Web page
+=well-formed document
+}
+
+Founded in 1994 at the Massachusetts Institute of Technology to standardize Web markup languages.{
+=World Wide Web Consortium 
+~HTML
+~XML
+~HTTP
+}

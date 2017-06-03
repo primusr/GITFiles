@@ -1,0 +1,69 @@
+Used deliberately as an integral part of your design that provides structure and separates content.{
+=active white space
+~cache
+~fixed-width page layout
+~flexible page layout
+}
+
+The browser's temporary storage area for Web pages and images.{
+~active white space
+=cache
+~fixed-width page layout
+~flexible page layout
+}
+
+A Web page layout that allows the designer to control the look of the Web pages as if it were a printed page, with consistent width and height.{
+~active white space
+~cache
+=fixed-width page layout
+~flexible page layout
+}
+
+A Web page layout designed to adapt to different screen resolutions. Also called fluid layout.
+{
+~active white space
+~cache
+~fixed-width page layout
+=flexible page layout
+}
+
+A layout device that organizes the Web page, providing visual consistency.{
+=grid
+~look and feel
+~Media Queries
+~passive white space
+~screen resolution
+}
+
+The interface that the user must navigate on a Web site.{
+~grid
+=look and feel
+~Media Queries
+~passive white space
+~screen resolution
+}
+
+CSS statements that let you specify different style rules for different media destinations. For example, an HTML
+document could be displayed with different fonts for print or screen.{
+~grid
+~look and feel
+=Media Queries
+~passive white space
+~screen resolution
+}
+
+The blank area that borders the screen or is the result of mismatched shapes in a layout.{
+~grid
+~look and feel
+~Media Queries
+=passive white space
+~screen resolution
+}
+
+The width and height of the computer screen in pixels.{
+~grid
+~look and feel
+~Media Queries
+~passive white space
+=screen resolution
+}
