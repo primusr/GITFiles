@@ -1,0 +1,14 @@
+
+Install a web server.
+Download MediaWiki to your local computer.
+Uncompress the files into the root directory of your website (not in a subdirectory).
+Rename the unzipped directory to the name you want to appear in the URL (for example, name it "wiki" if you want the URL http://example.com/wiki/). 
+Go to the the directory in your web browser (e.g. http://localhost/wiki/). 
+Click the link to begin configuring.
+Fill out the form, following the instructions.
+Complete the installation. 
+Move the LocalSettings.php from the config directory to the wiki's root directory (e.g. wiki). 
+
+
+
+
