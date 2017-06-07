@@ -31,7 +31,6 @@ A part of the World Wide Web is __________.{
 ~Web browsers 
 ~Servers 
 =All of the above   
-
 }
 
 What do you need to access the World Wide Web?{ 
@@ -151,4 +150,74 @@ Which came first?{
 =ARPA 
 ~IP/TCP 
 ~AOL
+}
+
+When did the term web 2.0 become popular?{
+=2004 
+~1994 
+~2008 
+~1990
+}
+
+What is a trackback?{
+=A type of backlink 
+~A spam method 
+~An warez site 
+~A method of getting fake visits to your site
+}
+
+Who is the founder of wikipedia?{
+~James Bravo
+~Tom Bravo
+=James Wales
+~James Bravo
+}
+
+Which of the following is not an acronym for RSS?{
+=Really simple syndication
+~Really simple site
+~Rich site summary
+~RDF site summary
+}
+
+Who invented the term web 2.0?{
+~Bill Gates
+~Yahoo
+~Google
+=Tim O'Reilly
+}
+
+What do you understand by the term "Wisdom of the crowds" and how it applies to web 2.0?{
+=Collective knowledge from many is of greater value than that of a single expert
+~An expert opinion always outweighs that from a group 
+~Experts can seek opinions from others to increase their wisdom 
+~Diverse collections of independently-deciding individuals requires an expert to resolve conflicts
+}
+
+Which of the following technologies was not present in web 1.0?{
+~Flash 
+~Html 
+~Php 
+=Ajax
+}
+
+Which of the following is true about Blogs and Wikis?{
+~Blogs have comments while Wiki does not 
+~Blog is advanced form of a wiki 
+=Blog is usually centered around one person, while wiki is many to many 
+~Wiki is usually centered around one person, while Blog is many to many
+}
+
+Which of the following is characteristic of Web 2.0 applications?{
+=They get better as more people use it
+~Multiple users schedule their time to use it one by one 
+~They provide users with content rather than asking users to create it 
+~Web 2.0 application refers to a new version of a web 1.0 application
+}
+
+What is a tag?{
+~It is used to indicate ownership of content 
+~It is used to flag inappropriate content 
+=It refers to keyword that users attach to content 
+~It is used to indicate featured content on a website
 }

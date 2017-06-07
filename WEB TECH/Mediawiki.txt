@@ -1,0 +1,18 @@
+Below are the steps involoved in installing mediawiki on your webserver. Match the corresponding tasks in its corresponding sequence in the installation process.{
+=Install a web server. -> 1
+=Download MediaWiki to your local computer. ->2
+=Uncompress the files into the root directory of your website (not in a subdirectory). -> 3
+=Rename the unzipped directory to the name you want to appear in the URL (for example, name it "wiki" if you want the URL http://example.com/wiki/). -> 4
+=Go to the the directory in your web browser (e.g. http://localhost/wiki/). -> 5
+=Click the link to begin configuring. -> 6
+=Fill out the form, following the instructions. -> 7
+=Complete the installation. -> 8 
+=Move the LocalSettings.php from the config directory to the wiki's root directory (e.g. wiki). -> 9
+}
+
+
+
+
+
+
+
