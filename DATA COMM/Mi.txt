@@ -5,13 +5,9 @@ A ________ is a computer network that covers a small area (home, office, buildin
 ~Wireless Networks
 }
 
-Enumerate 5 characteristics of LAN{
-	
-}
+Enumerate 5 characteristics of LAN{}
 
-Enumerate 5 advantages of LAN{
-	
-}
+Enumerate 5 advantages of LAN{}
 
 Which of the following is used to transfer data from one compuer to another?{
 =Communication Media
@@ -53,17 +49,59 @@ Which of the following is a device that connects multiple networds using similar
 =Gateway
 }
 
-Matchng type. Match the following characteristics or description to the corresponding protocol.{
-=Simple and straightforward method->
-=After station finds line idle, it sends its frames immediately(with a probability 1)
-=Highest chance of collision.
-
-Random delays reduces probability of collisions because two stations with data to be transmitted will wait for different amount of times.
-Bandwidth is wasted if waiting time (backoff) is large because medium will remain idle following end of transmission even if one or more stations have frames to send 
-
-Reduces chance of collision
-If station finds line idle,it follows these steps
-A) with probability p,the station sends its frame
-B)with probability q=1-p,the station waits for the beginning of next time slot and checks line again
-
+Matchng type. Match the following characteristics or description to the corresponding protocol.
+{
+=Simple and straightforward method -> 1 Persistent CSMA
+=After station finds line idle, it sends its frames immediately with a probability 1 -> 1 Persistent CSMA
+=Highest chance of collision. -> 1 Persistent CSMA
+=Random delays reduces probability of collisions because two stations with data to be transmitted will wait for different amount of times. -> p Persistent CSMA
+=Bandwidth is wasted if waiting time (backoff) is large because medium will remain idle following end of transmission even if one or more stations have frames to send. -> p Persistent CSMA 
+=Reduces chance of collision -> Non-persistence CSMA
+=If station finds line idle,it follows these steps with probability p,the station sends its frame the station waits for the beginning of next time slot and checks line again. -> Non persistent CSMA
 }
+
+What does the acronym CSMA/CD stand for?{
+=Collision Sense Multiple Access Collision Detection
+}
+
+What does the acronym CSMA/CA stand for?{
+=Collision Sense Multiple Access Collision Avoidance
+}
+
+What does the acronym HTTP stand for?{
+=Hypertext Transfer Protocol
+}
+
+Discuss the difference between persistent and non-persistent connection in HTTP. 5 points.{}
+
+Which of the following corresponds to code 400?{
+=Bad Request
+~Unauthorized
+~Forbidden
+~Not found
+}
+
+Which of the following corresponds to code 401?{
+~Bad Request
+=Unauthorized
+~Forbidden
+~Not found
+}
+
+Which of the following corresponds to code 403?{
+~Bad Request
+~Unauthorized
+=Forbidden
+~Not found
+}
+
+Which of the following corresponds to code 404?{
+~Bad Request
+~Unauthorized
+~Forbidden
+=Not found
+}
+
+Color Coding
+Straight
+Cross Over

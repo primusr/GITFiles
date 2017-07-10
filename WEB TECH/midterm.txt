@@ -1,0 +1,267 @@
+With the "Mass Mail" tool, which of the following number of recipients can be selected?{
+=Multiple users in system
+~A single user in system
+~Multiple groups
+~A single group
+}
+
+In the User Manager, what are the Public Back-end User groups?{
+~Publisher, Manager, Author, Editor, Administrator, and Super Administrator
+~Publisher, Manager, Administrator, and Super Administrator
+=Manager, Administrator, and Super Administrator
+~Administrator, and Super Administrator
+}
+
+From which package are the classes (i.e JSite, JAdministrator and JInstallation) which make up the Joomla CMS application extended?{
+=Installer
+~Application
+~Template
+~Database
+}
+
+In the Article Manager, what is an article managed by?{
+~Section ID
+~Category ID
+~Section ID and Category ID
+=Article ID
+}
+
+In the User Manager, what are the Public Front-end user groups?{
+~Registered, Manager, Author, Editor, and Publisher
+=Registered, Author, Editor, and Publisher
+~Registered, Editor, and Publisher
+~Registered and Publisher
+}
+
+Which articles can the frontpage view display?{
+=Articles from any section and category
+~Articles restricted to just a few sections and categories
+~Only static item contents
+}
+
+In the Content Manager, is there any relationship between the 3-tier organization level for articles and the structure of the menus on your site?{
+~Yes. The structure menus depend on the 3-tier organization level.
+=No. Your site can have any menu level.
+}
+
+In the User Manager, what's the step of registration after 'submit user information'?{
+=Wait for the system's approval
+Check email and activate account
+No further step is required. The account is automatically activated.
+It depends on the "User Settings". The account may be enabled automatically or the user may have to activate it.
+}
+
+How will you create a poll and display it on Frontpage?{
+~Create a poll item in the component Poll and select the poll in the module Poll.
+~Create a poll item in the component Poll and select the option "Show on Frontpage".
+~Create poll in the module Poll.
+=Create a poll item in the component Poll. Create a menu item pointing to that poll.
+}
+
+Which is incorrect about MD5 hash values with regard to their usage in Joomla?{
+=Each password in Joomla is stored as an MD5 hash value.
+~It stands for message-digest algorithm 5.
+~The length of the number for MD5 is a 128-bit hash code.
+~None of these.
+}
+
+In the User Manager, what is the difference between the Author and the Editor groups?{
+=The Author group allows a user to edit their own content. The Editor can edit any content.
+~The Author group allows a user to submit new content. The Editor cannot submit new content.
+~The Author group allows a user to edit any content. The Editor can edit only their own content.
+}
+
+Which option will you select to find unpublished articles?{
+~Component manager
+~Module manager
+=Article manager
+~None of these
+}
+
+Which of the following files does the "/includes" directory contain?{
+~application.php
+~defines.php
+=framework.php
+~All of these
+}
+
+What is a Module?{
+~A Module is a mini-application that renders the main body of the page.
+~A Module is a smaller Extension typically used for rendering a small element that is displayed across multiple pages.
+~A Module is a section of the code that runs when a pre-defined event happens within Joomla.
+=A Module controls the way the content of a web site is displayed.
+}
+
+What can you not do with the Media Manager?{
+~Upload files
+~Delete files/folders
+=Rename files/folders
+~Create folders
+}
+
+In the User Manager, which Public Back-end User group(s) can access "Global configuration"?{
+=Super Administrator
+~Administrator
+~Manager
+~System
+}
+
+What is the output format of the documentation created using PHPDocumentor?{
+~PDF
+~CHM (compiled HTML)
+~XML
+=All of these.
+}
+
+How can you access the User Manager?{
+=In the Control Panel page of Administration. Click on the "User Manager" icon
+~Menu "Tools" -> User Manager
+~Menu "Site" -> Global Configuration
+~Menu "Site" -> User Manager
+}
+
+Which Joomla file provides the central logic of the template, including any module and component display?{
+=Index.php
+~Template.css
+~TemplateDetails.xml
+~Banner.fff
+}
+
+Which file is required to turn on the SEO mode with rewrite URL?{
+~configuration.php
+~install.php
+~httpd.conf
+=.htaccess
+}
+
+In the User Manager, how can a user get back their password if they forget it?{
+~By using the "Forgot your password?" function.
+=Super Administrators can reveal the password.
+~The Password is encrypted and cannot be decrypted; thus he can not get back his plain password.
+}
+
+How do you control the layout of print pages?{
+~Style in file css/print.css
+=Control the output of component.php
+~Style for class ".print" inside css/template.css
+}
+
+In the Content Manager, Joomla! uses a 3-tier organization level for articles. It is:{
+~Category - Section - Article
+~Static content - Category - Article
+=Section - Category - Article
+~Section - Static Content - Article
+}
+
+What types of extensions does Joomla include?{
+~Component, Module, Template
+=Component, Module, Template, Language
+~Component, Module, Template, Language, Plugin
+~Component, Module, Template, Language, Plugin, Addon
+}
+
+What user authentication methods does Joomla 1.5 support?{
+~Twitter, Facebook, MySpace
+=Gmail, LDAP
+~Yahoo
+}
+
+In the Media Manager, how can you set the "Maximum size" option?{
+~Set configuration via Global Configuration > Site
+~Set configuration via Global Configuration > System
+=Set configuration via Global Configuration > Media
+}
+
+What kinds of default menus are available in the example data?{
+~Top Menu, Main Menu, Other menu, User menu, Resources, Example Pages and Key Concepts
+=Top Menu, Main Menu and User menu 
+~Top Menu, Main Menu and Other menu
+~Main Menu, Other menu and User menu
+}
+
+Which of the following files has to be renamed to .htaccess in order to enable mod_rewrite?{
+~htaccess.php
+=htaccess.txt
+~htaccess.doc
+~None of these
+}
+
+How will you create a contact page?{
+~Create a contact item in the Contacts component. Select the contact item in the module Contacts.
+=Create a contact item in the Contacts component. Create a menu item pointing to the contact item.
+~Declare contact information in the module Contact and publish it.
+~Declare contact information for the Administrator user and select it in the module Contact.
+}
+
+While installing Joomla, at the FTP Configuration step, what is the FTP layer for?{
+~For uploading files in the Administration panel
+~For uploading files in the Media Management panel
+=For managing the file system in the Administration panel
+~For handling file system manipulation and enabling Joomla! installers
+}
+
+What is the method "getModule" in the class "JModuleHelper" used for?{
+=To get the module by name. It returns an object with information about the module.
+~To get the module by module position. It returns an array of objects with information about the module.
+}
+
+What will happen if you delete a menu?{
+~The menu and all its items will be deleted out of the system.
+=The menu will be marked as deleted and you can delete/restore it from the "Trash Manager".
+~The menu item will be moved to the "Menu Trash".
+}
+
+What is the purpose of the Newsfeeds component?{
+~To publish news to other news readers
+=To get news from other news providers
+~To help users submit news/articles
+~To help users get news/articles
+}
+
+Which of the given database systems is supported by Joomla?{
+~Microsoft SQL Server
+~MySQL
+~Microsoft Access
+=All of these
+}
+
+Which of the following is not true about the FrontPage Manager?{
+~It is the title page of the website.
+~The selected content is presented there in blog form.
+=Content cannot be selected from the FrontPage from all the contents.
+~Individual content items can be sorted within the FrontPage Manager.
+}
+
+What is true of the "Community Builder" extension?{
+=It is an environment for producing and maintaining online communities on Joomla driven sites.
+~It is a system that provides user profile capabilities for Joomla sites.
+~It is a different registration/login process for Joomla sites(It supports 4 different workflows).
+~It is an integrated forum solution for Joomla.
+~It is a framework for other Joomla components to integrate with user profiles.
+}
+
+What is the role of the template metadata file in the system?{
+=It contains the basic authorship information.
+~It contains information about the files that make up the template.
+~It contains information about the parameters that will be available for configuration through the administrator interface.
+~All of these.
+}
+
+What does the menu parameter type do?{
+=It provides a drop down list of the available menu items from your Joomla site.
+~It provides a drop down list of the available menus from your Joomla site.
+~It provides a drop down list of the menus from your Joomla site.
+}
+
+What happens if the Main Menu is deleted?{
+~Nothing will happen.
+=Your site will not function as it has a default menu item.
+~Your site will work with the condition that the Top menu and the Other menu remain unchanged.
+}
+
+How many levels can each menu have?{
+=2 levels
+~5 levels
+~10 levels
+~As many levels as you wish
+}
